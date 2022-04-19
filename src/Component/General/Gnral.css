@@ -1,0 +1,9 @@
+.Gl{
+    width: 80%;
+    
+    text-align: left;
+}
+ul:hover {
+    color: rgb(151, 43, 43);
+    transition: 2s;
+}

@@ -1,0 +1,43 @@
+.content {
+    position: relative;
+    
+}
+h1 {
+    color:aquamarine;
+    padding: none;
+    font-size: 35px;
+}
+
+h3 {
+
+    font-size: 15px;
+    margin-bottom:none;
+
+}
+h3:hover {
+    color: rgb(151, 43, 43);
+    transition: 2s;
+}
+span{
+    color:blue
+}
+
+h4 {
+     font-size: 15px;
+     color: bisque;
+
+}
+.nws {
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: gold;
+    width: 50%;
+    position: relative;
+    bottom: unset;
+    margin-left: auto;
+    margin-top: 30%;
+    margin-right: auto;
+    align-items: center;
+    align-self: center;
+
+}
