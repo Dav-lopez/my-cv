@@ -5,7 +5,7 @@ function Profile() {
       <section className = 'content'>
             <div >
                 <h4>Hi, My name is </h4>
-                <h1>LOPVZ <span>DAVID</span> </h1>
+                <h1>LOPEZ <span>DAVID</span> JESUTOBA </h1>
                 <h3> A graduate of Quantity surveying, interested in enhancing my intellectual and professional experience. I have good measuring and estimating skills, I can learn fast and the willingness to adapt to situations that will effectively increase my capacity for the achievement of set firm goals. I am highly entrepreneurial and eﬃcient in building and maintaining client relationships.<spam>I am learning webdevolpmnt on sidehustle.. ReactJs </spam></h3>
              </div>
             <div className='nws'> 
@@ -17,6 +17,7 @@ function Profile() {
                     <label>Enter your email:
                         <input type="text" />
                     </label>
+                    <br></br>
                     <br></br>
                         <input type = "submit" value = 'send'/>
                   
