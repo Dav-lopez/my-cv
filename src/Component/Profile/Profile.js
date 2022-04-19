@@ -16,11 +16,12 @@ function Profile() {
                     </label><br></br>
                     <label>Enter your email:
                         <input type="text" />
+                    <br></br>
                     </label><label>Enter your Message:
                         <input type="text" />
                     </label>
                     <br></br>
-                    <br></br>
+                    
                     <br></br>
                         <input type = "submit" value = 'send'/>
                   
