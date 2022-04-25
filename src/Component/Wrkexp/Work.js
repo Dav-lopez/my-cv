@@ -11,7 +11,7 @@ function Work() {
             <ul>
                 <li>Answer customer queries over email / ticketing system</li>
                 <li>Interact with our engineering team to get software issues and bugs resolved</li>
-                <li>Occasionally interact with customers over Skype or telephone</li>
+                <li>Occasionally interact with customers over intrecom and email</li>
                 <li>Contribute ideas to the team on how customers can be delighted</li>
             </ul>
     </div>
